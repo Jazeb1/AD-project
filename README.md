@@ -32,7 +32,7 @@ Before any build, I focused on visualizing my lab environment by creating a deta
 
 *Ref 1: Network Diagram*
 
-![Network Diagram](https://imgur.com/your_image_url_here)
+![Network Diagram](https://app.diagrams.net/#G1KmjGsUgzc-c2th3HkaqVy3MUaFtJHiRq#%7B%22pageId%22%3A%220M_ACmYf8vZo8R6IBqBJ%22%7D)
 
 ### Part 2: Cloud Infrastructure Setup
 
