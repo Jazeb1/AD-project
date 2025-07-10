@@ -30,9 +30,6 @@ The primary objective of this project was to establish a fully functional Active
 
 Before any build, I focused on visualizing my lab environment by creating a detailed diagram using draw.io. This crucial first step helped me map out the logical flow of my infrastructure and security components.
 
-*Ref 1: Network Diagram*
-
-![Network Diagram](https://app.diagrams.net/#G1KmjGsUgzc-c2th3HkaqVy3MUaFtJHiRq#%7B%22pageId%22%3A%220M_ACmYf8vZo8R6IBqBJ%22%7D)
 
 ### Part 2: Cloud Infrastructure Setup
 
